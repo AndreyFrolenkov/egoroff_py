@@ -1,0 +1,6 @@
+# s = input()
+# s = s.replace('w', '')
+# s = s.replace('z', '')
+# print(s)
+s = input()
+print(s.replace('w','').replace('z',''))
